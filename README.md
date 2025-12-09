@@ -54,9 +54,9 @@ The main objective of this project is to examine total revenue, guest satisfacti
 * Compiled insights and reports for final presentation.
 
 ## Dashboard
-Airbnb_Analysis_Dashboard.png
-Customer_Behaviour_Dashboard.png
-![Customer_Behaviour_Dashboard](Customer_Behaviour_Dashboard.png)
+
+Air_bnb_Page_01.png
+![Air_bnb_Page_01](Air_bnb_Page_01.png)
 
 ## Project Insights
 
