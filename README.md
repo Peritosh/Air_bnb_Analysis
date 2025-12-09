@@ -55,8 +55,17 @@ The main objective of this project is to examine total revenue, guest satisfacti
 
 ## Dashboard
 
-Air_bnb_Page_01.png
+Home Page
 ![Air_bnb_Page_01](Air_bnb_Page_01.png)
+
+Pricing & Demand Page
+![Air_bnb_Page_01](Air_bnb_Page_02.png)
+
+Guest Satisfaction & Quality Page
+![Air_bnb_Page_01](Air_bnb_Page_03.png)
+
+Location Page
+![Air_bnb_Page_01](Air_bnb_Page_04.png)
 
 ## Project Insights
 
